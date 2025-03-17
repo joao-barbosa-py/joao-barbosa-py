@@ -14,7 +14,7 @@ jobs:
       - name: Gerar animação Snake  
         uses: Platane/snk/svg-only@v3  
         with:  
-          github_user_name: SEU_USUARIO  
+          github_user_name: joao-barbosa-py
           outputs: snake.svg  
 
       - name: Publicar no branch output  
