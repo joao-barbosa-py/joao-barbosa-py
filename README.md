@@ -6,15 +6,6 @@
 - 🤔 I’m looking for help with first stage.
 - 😄 Pronouns: He/Him.
 
-<div style="display: inline_block"><br>
- 
-  
-  
-  
-  
-  <img align="center" alt="joao-Lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Lua/Lua-original.svg">
-</div>
-
 <meta name="description" content="GitHub profile in greem color">
 <meta name="keywords" content="Full Stack Developer, GitHub Stats, GitHub Profile, JavaScript, Nodejs, HTML5, CSS3,Python,MySQL"/>
 
@@ -46,6 +37,8 @@
     </a>
     <a href="#">
       <img align="center" alt="joao-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <a href="#">
+      <img align="center" alt="joao-Lua" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-line.svg">
     
   </p>
 </div>
